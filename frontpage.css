@@ -1,5 +1,191 @@
-
-{
-
-	
+.name-container {
+	clear: both;
+	margin-left: 17%;
 }
+
+.name {
+	display: inline-block;
+	text-align: left;
+	margin-bottom: 8%;
+	padding: 3%;
+}
+
+.heading {
+	font-size: 300%;
+	color: #5e8000;
+	margin-bottom: 3%;
+	margin-top: 3%;
+	width: 96%;
+	background-color: white;
+    padding: 30px; 
+}
+
+.numbers {
+	margin: auto;
+	font-size: 1.3em;
+	color: #465c0a;
+	margin-bottom: 7%;
+	width: 97%;
+	background-color: white;
+    padding: 1.5%; 
+}
+
+.dot {
+	color: white;
+	font-size: 1.6em;
+}
+
+.headingNumbers {
+	margin: auto;
+	font-size: 1.8em;
+	color: #465c0a;
+	margin-top: 4%;
+	width: 97%;
+	background-color: white;
+    border: 0px;
+    padding: 1.5%; 
+}
+
+
+
+
+
+
+.getData2 {
+	margin-left: 22%;
+}
+
+.year2 {
+	margin-left: 22%;
+}
+
+.meat2 {
+	margin-left: 22%;
+}
+
+.fish2 {
+	margin-left: 22%;
+}
+
+.dairy2 {
+	margin-left: 22%;
+}
+
+.vegetables2 {
+	margin-left: 22%;
+}
+
+.coffee2 {
+	margin-left: 22%;
+}
+
+.foodText {
+	margin-left: 22%;
+	margin-right: 10%;
+	margin-bottom: 8%;
+	color: #3d3d29;
+	font-size: 150%;
+	line-height: 160%;
+}
+
+.veg {
+	margin-bottom: 10%;
+	width: 100%;
+}
+
+
+body {
+	background-color: hsl(80, 40%, 80%);
+	font-family: 'Raleway', sans-serif;
+}
+
+a {
+	color: #465c0a;
+}
+
+.year {
+	font-size: 0.8em;
+}
+
+.louise {
+	border-radius: 50%;
+	margin-right: 10%;
+	margin-left: 21%;
+	float:left;
+}
+
+.josefina {
+	border-radius: 50%;
+	margin-right: 10%;
+}
+
+.carolina {
+	border-radius: 50%;
+	-webkit-transform: rotate(320deg); /* Chrome, Safari, Opera */
+    transform: rotate(320deg);
+}
+
+span {
+	font-size: 25px;
+}
+
+
+
+
+
+table {
+	font-family: Verdana;
+   border-collapse: collapse;
+   width: 100%;
+   color: #3d3d29;
+   font-size: 120%;
+}
+
+td, th {
+   border: 2px solid #4d4d33 ;
+   text-align: left;
+   padding: 12px;
+}
+
+tr:nth-child(even) {
+   background-color: #dddddd ;
+}
+
+.table {
+	margin-bottom: 10%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+
+
+
+
+#slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 955px; 
+    height: 500px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
